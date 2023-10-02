@@ -10,9 +10,9 @@ const CustomButton = ({title,containerStyles,handleClick,btnType}: CustomButtonP
     type={ btnType ||'button'}
     className={`custom-btn ${containerStyles}`}
     onClick={handleClick}>
-        <span className={`flex-1`}>Sign In</span>
+        <span className={`flex-1`}>Shop Now</span>
         <div className="flex justify-center items-center">
-            <div className="w-6 h-6">
+            <div className="w-2 h-4">
          
             </div>
         </div>
