@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 
-import { CustomButton } from "@components";
+import {  CustomButton } from "@components";
 
 const Hero = () => {
   const handleScroll = () => {
@@ -29,7 +29,7 @@ const Hero = () => {
         Explore a range of unique clothing options with the latest designs and be part of the movement to support Bandung's UMKM sector.
         </p>
         <CustomButton
-          title="Explore Cars"
+          title="Shop Now"
           containerStyles="bg-primary-blue text-white rounded-full mt-10"
           handleClick={handleScroll}
         />

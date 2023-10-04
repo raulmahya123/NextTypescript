@@ -5,8 +5,7 @@ import Footer from "./Footer";
 import NavBar from "./Navbar";
 import ShowMore from "./ShowMore";
 import Hero from "./Hero";
-// import SearchBar from "./Searchbar";
-
+import Search from "./Search";
 export {
   Hero,
   CarCard,
@@ -15,5 +14,5 @@ export {
   Footer,
   NavBar,
   ShowMore,
-  // SearchBar,
+  Search,
 };
