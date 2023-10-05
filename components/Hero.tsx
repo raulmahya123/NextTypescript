@@ -30,7 +30,7 @@ const Hero = () => {
         </p>
         <CustomButton
           title="Shop Now"
-          containerStyles="bg-primary-blue text-white rounded-full mt-10"
+          containerStyles="bg-emerald-800 text-white rounded-full mt-10"
           handleClick={handleScroll}
         />
       </div>
